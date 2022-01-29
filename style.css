@@ -1,0 +1,20 @@
+body {
+background-color: aliceblue;
+text-transform: capitalize;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    padding: 5px;
+}
+
+thead th {
+    font-weight: bold;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
